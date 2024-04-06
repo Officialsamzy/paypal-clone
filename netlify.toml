@@ -1,3 +1,6 @@
+git add netlify.toml
+git commit -m "Add netlify.toml configuration"
+git push origin main  # Replace 'main' with your branch name if different
 [[redirects]]
 from = "/*"
 to = "/index.html"
